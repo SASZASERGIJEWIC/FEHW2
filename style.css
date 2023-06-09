@@ -1,0 +1,25 @@
+body{
+   font-family: Arial, Helvetica, sans-serif;
+   
+}
+table{
+    width: 350px;
+    text-align: center;
+    border: 2px solid;
+}
+th, td {
+    padding: 7px 10px 10px 10px;
+    border: 2px solid;
+}
+.us {
+    background-color: beige;
+}
+.uk {
+    background-color: rgb(229, 229, 155);
+}
+.jp{
+    background-color: rgb(146, 146, 119);
+}
+.grga{
+    background-color: rgb(205, 205, 205);
+}
